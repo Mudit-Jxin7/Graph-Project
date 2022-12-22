@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+    background-color: #D09CFA;
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 1px solid #fff;
+}
+
+#container2 {
+    color: #A555EC;
+    width: 50%;
+    height: 100%;
+    border: 1px solid #fff;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#mynetwork2{
+    width: 100%;
+    height: 100%;
+}
+
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: #F3CCFF;
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph{
+    margin:auto;
+    display:block;
+}
+
+
+#solve{
+    margin:auto;
+    display:block;
+}
